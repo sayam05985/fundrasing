@@ -1,8 +1,4 @@
 Great! Here's a sample `README.md` file for your **Fundraising Intern Portal Flutter App**:
-
----
-
-````markdown
 # 🎯 Fundraising Intern Portal (Flutter UI)
 
 A clean and responsive Flutter UI to simulate a fundraising intern portal. This app uses **dummy/mock data** and contains no backend integration — perfect for showcasing UI/UX design skills.
@@ -111,7 +107,7 @@ final intern = Intern(
 
 ## 📸 Screenshots (Coming Soon)
 
----
+
 
 ## 💡 To-Do / Enhancements
 
@@ -124,3 +120,6 @@ final intern = Intern(
 ## 📬 Contact
 
 **Developer:** Sayam Godase
+
+
+
